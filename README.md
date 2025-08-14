@@ -2,7 +2,10 @@
 
 > Next-Gen AI Conversations Platform
 
-![Nexus Chat](static/nexus_chat_logo.png)
+![Nexus Chat] <img width="1917" height="940" alt="Screenshot 2025-08-14 140641" src="https://github.com/user-attachments/assets/1b3d5941-c73d-480e-b9fd-2cb3469b7ea8" />
+<img width="1919" height="934" alt="Screenshot 2025-08-14 140629" src="https://github.com/user-attachments/assets/87dd9b2b-1ef3-4537-a9ec-6c713a2b6819" />
+
+
 
 Nexus Chat is a modern, elegant chat interface for AI conversations. It provides a seamless experience for interacting with various AI models, featuring a beautiful dark theme interface and professional design.
 
